@@ -1,6 +1,6 @@
 {
   "name": "mcp-server-cf-flux1schnell",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A Model Context Protocol (MCP) server implementation for Cloudflare's Flux 1 Schnell AI image generation model",
   "type": "module",
   "bin": {
